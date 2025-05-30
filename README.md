@@ -48,15 +48,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=SrLipzin021&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SrLipzin021&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 Troféus do GitHub:
-![](https://github-profile-trophy.vercel.app/?username=SrLipzin021&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Citação Aleatória de Dev:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Repositório com Mais Contribuições:
-![](https://github-contributor-stats.vercel.app/api?username=SrLipzin021&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=SrLipzin021&icon=2&color=1)](https://visitcount.itsvg.in)
 
