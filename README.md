@@ -43,14 +43,6 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
 
-# 📊 Estatísticas do GitHub:
-![](https://github-readme-stats.vercel.app/api?username=SrLipzin021&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SrLipzin021&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SrLipzin021&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=SrLipzin021&icon=2&color=1)](https://visitcount.itsvg.in)
-
 ###
 
 <br clear="both">
@@ -58,5 +50,13 @@
 <img align="right" height="150" src="https://media3.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=6c09b952lyp9ohlu7jd61lly0vx0o2iau6t41fcp3bpqze9e&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
 
 ###
+
+# 📊 Estatísticas do GitHub:
+![](https://github-readme-stats.vercel.app/api?username=SrLipzin021&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SrLipzin021&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SrLipzin021&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=SrLipzin021&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Criado com orgulho usando GPRM ( https://gprm.itsvg.in ) -->
