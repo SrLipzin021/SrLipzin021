@@ -60,4 +60,12 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SrLipzin021&icon=2&color=1)](https://visitcount.itsvg.in)
 
+###
+
+<br clear="both">
+
+<img align="right" height="150" src="https://media3.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=6c09b952lyp9ohlu7jd61lly0vx0o2iau6t41fcp3bpqze9e&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
+
+###
+
 <!-- Criado com orgulho usando GPRM ( https://gprm.itsvg.in ) -->
